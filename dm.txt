@@ -1,0 +1,13 @@
+{
+	"storeHouse": [
+
+		{
+			"sourceName": "自用仓库",
+			"sourceUrl": "https://raw.githubusercontent.com/libinghui123/tvbox/main/dc.txt?token=GHSAT0AAAAAAB6DLRSJI7LXMIQHHLJFNKR4Y6XY3VA"
+		},
+		{
+			"sourceName": "网络仓库",
+			"sourceUrl": "https: //agit.ai/liucn/box/raw/branch/main/dc.txt"
+		}
+	]
+}
