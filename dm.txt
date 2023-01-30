@@ -7,7 +7,7 @@
 		},
 		{
 			"sourceName": "网络仓库",
-			"sourceUrl": "https: //agit.ai/liucn/box/raw/branch/main/dc.txt"
+			"sourceUrl": "https://agit.ai/liucn/box/raw/branch/main/dc.txt"
 		}
 	]
 }
