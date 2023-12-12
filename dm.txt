@@ -3,7 +3,7 @@
 
 		{
 			"sourceName": "自用仓库",
-			"sourceUrl": "https://raw.githubusercontent.com/libinghui123/tvbox/main/dc.txt"
+			"sourceUrl": "https://tvbox.libinghui.com/dc.txt"
 		},
 		{
 			"sourceName": "网络仓库",
