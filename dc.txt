@@ -5,18 +5,6 @@
             "name": "神器每日推送"
         },
         {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "小苹果"
-        },
-        {
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "大聪明"
-        },
-        {
-            "url": "https://liu673cn.github.io/box/m.json",
-            "name": "刘C"
-        },
-        {
             "url": "http://111.67.196.181/mtv/meow.txt",
             "name": "太阳视界"
         },
@@ -92,30 +80,10 @@
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "ImABC"
         },
-	{
-            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
-            "name": "玖妖1"
-        },
-	{
-            "url": "http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
-            "name": "玖妖2"
-        },
-	{
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
-            "name": "玖妖3"
-        },
-	{
-            "url": "https://tvbox.evai.pl/t2.json",
-            "name": "鸡盒T2"
-        },
-	{
-            "url": "https://tvbox.evai.pl/t3.json",
-            "name": "鸡盒T3"
-        },
-	{
-            "url": "https://tvbox.evai.pl/t4.json",
-            "name": "鸡盒T4"
-        }
+	   {
+		   "url": "https://tvbox.libinghui.com/test/test.json",
+		   "name": "测试"
+	   }
 
     ]
 
