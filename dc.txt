@@ -81,8 +81,8 @@
             "name": "ImABC"
         },
 	   {
-		   "url": "https://tvbox.libinghui.com/test/test.json",
-		   "name": "测试"
+		   "url": "https://tvbox.libinghui.com/libs/self.json",
+		   "name": "自用"
 	   }
 
     ]
