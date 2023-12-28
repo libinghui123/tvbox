@@ -1,6 +1,8 @@
 name: Release
 
 on:
+  tags:
+      - v*
   workflow_dispatch:
     inputs:
       version:
