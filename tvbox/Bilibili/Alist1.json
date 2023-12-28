@@ -39,22 +39,8 @@
         "search" : true
     },
     {
-        "name" : "👍ECVE",
-        "server" : "https://pan.ecve.cn",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-    {
         "name" : "🌊七米蓝",
         "server" : "https://al.chirmyram.com",
-        "startPage" : "/",
-        "showAll" : false,
-        "search" : true
-    },
-    {
-        "name" : "☃️姬路白雪",
-        "server" : "https://pan.jlbx.xyz",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
