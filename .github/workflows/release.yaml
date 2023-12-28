@@ -1,13 +1,9 @@
 name: Release
 
 on:
-  tags:
-      - v*
   workflow_dispatch:
-    inputs:
-      version:
-        description: 'Version'
-        required: true
+    tags:
+      - v*
 
 jobs:
   build:
