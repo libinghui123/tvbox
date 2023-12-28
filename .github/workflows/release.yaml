@@ -2,9 +2,10 @@ name: Release
 
 on:
   workflow_dispatch:
-    tags:
-      - v*
-
+    inputs:
+      version:
+        description: 'Version'
+        required: true
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,6 +26,8 @@ jobs:
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: tvbox-${{ github.event.inputs.version }}
+          name: tvbox-${{ github.event.inputs.version }}
 
       - name: Upload Release Asset
         uses: actions/upload-release-asset@v1
