@@ -1,18 +1,5 @@
 {
     "spider": "clan://TVBox/jar/fm.jar",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
-                    ]
-                }
-            ]
-        }
-    ],
     "warningText": "接口由公众号【云星日记】免费提供",
     "wallpaper": "http://maoyingshi.cc/api.php",
     "sites": [
@@ -70,7 +57,7 @@
 {"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "clan://TVBox/Bilibili/哔哩PS.json"},
 {"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "clan://TVBox/Bilibili/哔哩外语.json"},
 {"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "clan://TVBox/Bilibili/哔哩学堂.json"},
-{"key":"csp_Bili幼儿","name":"📚哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVBox/Hk/biliext/幼儿乐园.json","jar":"clan://TVBox/Hk/Hk.jar"},
+{"key":"csp_Bili幼儿","name":"??哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVBox/Hk/biliext/幼儿乐园.json","jar":"clan://TVBox/Hk/Hk.jar"},
 {"key":"csp_Bili少儿","name":"📚哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"clan://TVBox/Hk/biliext/少儿教育.json","jar":"clan://TVBox/Hk/Hk.jar"},
 {"key":"csp_Bili小学","name":"📚哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"clan://TVBox/Hk/biliext/小学课堂.json","jar":"clan://TVBox/Hk/Hk.jar"},
 {"key":"csp_Bili初中","name":"📚哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"clan://TVBox/Hk/biliext/初中课堂.json","jar":"clan://TVBox/Hk/Hk.jar"},
@@ -299,6 +286,11 @@
             ]
         }
     ],
+    "lives": [
+    {"name": "Ipv4","type": 0,"url": "http://127.0.0.1:9978/file/TVBox/tv/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "ipv6_1","type": 0,"url": "https://cloud.lxweb.cn/f/qonQue/v6zb.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+     {"name": "ipv6_2","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "ipv6_3","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
     "ads": [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",

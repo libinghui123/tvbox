@@ -50,4 +50,24 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"mo-movs-item", //播放截取的列表数组的前关键词
-  "bfj
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
+
+  "zhuangtaiqian": "年份:", //状态前关键词
+  "zhuangtaihou": "</li>", //状态后关键词
+  "daoyanqian": "导演:", //导演前关键词
+  "daoyanhou": "</li>", //导演态后关键词
+  "zhuyanqian": "主演:", //主演前关键词
+  "zhuyanhou": "</li>", //主演后关键词
+  "juqingqian": "<p>", //剧情前关键词
+  "juqinghou": "</p>", //剧情后关键词
+
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\"" //播放剧集链接后关键词
+}
