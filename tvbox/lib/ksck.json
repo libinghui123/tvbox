@@ -16,15 +16,15 @@
 //QQ频道：搜索云星日记即可           
 //微信群;加客服赞赏入群           
 //客服微信:Yc_zhxx
-//本地接口配置: clan://localhost/TVBox/lib/ksck.json
+//本地接口配置: http://127.0.0.1:9978/file/TVBox/lib/ksck.json
 //上面链接是针对那些电视端添加仓库失败的各别人员使用
 {
 "storeHouse":
 [
 
-{"sourceName":"可视本地仓库","sourceUrl":"clan://localhost/TVBox/本地仓库.json"},
-{"sourceName":"云星在线仓库","sourceUrl":"clan://localhost/TVBox/lib/zx.json"}
-//{"sourceName":"绿茶在线仓库","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
+{"sourceName":"可视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/zx.json"}
+//{"sourceName":"绿茶在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/99.json"},
 
 ]
 }
@@ -32,9 +32,9 @@
 //{"key": "csp_XBPQ_酷云77","name": "酷云七七","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"请求头": "Dalvik/2.1.0 (Linux; U; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10)","分类": "电视剧$2#电影$1#综艺$3#动漫$4","分类url": "http://api.tyun77.cn/api.php/provide/searchFilter?type_id={cateId}&pagenum={catePg}&pagesize=24","二次截取": "","数组": "data.result[]","图片": "videoCover","标题": "title","副标题": "msg","链接前缀": "http://api.tyun77.cn/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&package=com.sevenVideo.app.android&pcode=010110002&version=1.8.7&ids=","链接": "id","搜索模式": "1","搜索url": "http://api.tyun77.cn/api.php/provide/searchVideo?pg={pg}&searchName={wd}","搜索二次截取": "","搜索数组": "data[]","搜索图片": "videoCover","搜索标题": "videoName","搜索链接": "id","搜索副标题": "msg","搜索链接前缀": "http://api.tyun77.cn/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&package=com.sevenVideo.app.android&pcode=010110002&version=1.8.7&ids=","影片地区": "code", "影片类型": "code","状态":"code","导演": "useView","主演": "code","简介": "msg", "线路标题": "","播放二次截取": "","播放列表": "data.episodes[]","播放标题": "title","播放链接": "playurl"}},
 //{"key": "csp_XBPQ_两个BT","name": "两个BT","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"mi_paly_box\">&&</div>","线路标题":"ypxingq_t\">&&<span>[替换:在线播放>>播放列表]","搜索url":"https://www.bttwoo.com/xssearch?q={wd}&f=_all&p={pg}","播放数组":"<div class=\"paly_list_btn\">&&</div>","分类":"最新电影$new-movie#电视剧$dsj#热门下载$hot#本月热门$new-movie#高分电影$new-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv","分类url":"https://www.bttwo.net/{cateId}/{area}/{year}/{class}/page/{catePg}"},"jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
 //{"key": "csp_xBPQ_乐猪TV","name": "乐猪TV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"请求头\": \"手机\",\"副标题\": \"<span>&&</span>\",\"状态\": \"class=\\\"yac\\\">&&</p>\",\"简介\": \"class=\\\"tbox_js\\\">&&</div>\",\"播放数组\":\"class=\\\"list_block&&</ul>\",\"搜索url\": \"http://www.lezhutv.com/search-pg-{pg}-wd-{wd}.html\",\"搜索模式\": \"1\",\"搜索数组\": \"item-lazy&&</h4>\",\"搜索图片\": \"data-original=\\\"&&\\\"\",\"搜索标题\": \"title=\\\"&&\\\"\",\"搜索链接\": \"href=\\\"&&\\\"\",\"搜索副标题\": \"<span>&&</span>\",\"分类url\":\"http://www.lezhutv.com/type/{cateId}-{catePg}.html\"}","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
-//{"key": "csp_xBPQ_奇优影院","name": "️奇优影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/xBPQ/奇优影院xbpq.json","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
-//{"key": "csp_xBPQ_在线之家","name": "️在线之家","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/xBPQ/在线之家xbpq.json","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
-//{"key": "csp_xBPQ_饭团影视","name": "️饭团影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/xBPQ/饭团影视xbpq.json","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
+//{"key": "csp_xBPQ_奇优影院","name": "️奇优影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/xBPQ/奇优影院xbpq.json","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
+//{"key": "csp_xBPQ_在线之家","name": "️在线之家","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/xBPQ/在线之家xbpq.json","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
+//{"key": "csp_xBPQ_饭团影视","name": "️饭团影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/xBPQ/饭团影视xbpq.json","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
 //{"key": "csp_xb555","name": "555影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.555dy.vip/vodtype/{cateId}{year}.html","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
 
 

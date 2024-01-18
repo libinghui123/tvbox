@@ -1,5 +1,5 @@
 {
- "spider":"clan://TVBox/jar/fm.jar",
+ "spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
 // "spider": "https://pan.shangui.cc/f/JgXxcK/%E4%BF%8A1211.jar",
   "lives": [
     {
@@ -172,18 +172,18 @@
     },
 {"key": "火狐","name": "茶杯狐(采)","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫","伦理片"]},
 {"key": "csp_Nmys","name": "农民直连(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://fanty.run.goorm.site/ext/nmys.json"},
-{"key": "csp_XYQHiker_榜一短剧","name": "榜一短剧(Hk)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/Hk/XYQHiker/榜一短剧.json","jar": "clan://TVBox/Hk/Hk.jar"},
-{"key":"csp_XYQHiker_奈飞中文","name":"奈飞中文(Hk)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/Hk/XYQHiker/奈飞中文.json","jar":"clan://TVBox/Hk/Hk.jar"},
-{"key": "csp_XYQHiker_速搜影院", "name": "速搜影院(Hk)","type": 3, "api": "csp_XYQHiker","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/Hk/XYQHiker/速搜影院.json","jar":"clan://TVBox/Hk/Hk.jar"},
-{"key": "csp_XYQHiker_厂长影视","name": "厂长影视(Hk)", "type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "clan://TVBox/Hk/XYQHiker/厂长影视.json","jar":"clan://TVBox/Hk/Hk.jar"},
+{"key": "csp_XYQHiker_榜一短剧","name": "榜一短剧(Hk)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/榜一短剧.json","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
+{"key":"csp_XYQHiker_奈飞中文","name":"奈飞中文(Hk)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/奈飞中文.json","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
+{"key": "csp_XYQHiker_速搜影院", "name": "速搜影院(Hk)","type": 3, "api": "csp_XYQHiker","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/速搜影院.json","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
+{"key": "csp_XYQHiker_厂长影视","name": "厂长影视(Hk)", "type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/厂长影视.json","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
 {"key": "Libvio","name": "Libvio(XB)","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.libvio.pro/show/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#连续剧$2#综艺$3#动漫$4"},"jar":"https://pan.shangui.cc/f/LD61U3/xbpq%E6%96%B0%E7%89%88.jar"},
 {"key":"FREEOK","name":"福瑞剧院(XB)","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#剧集$2#动漫$3#综艺$4#少儿$5","分类url":"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>","嗅探词":"m3u8#.m3u8#.mp4#mp4","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","线路标题":"<span>&&</small>[替换:</span><small>>>-共]+集","搜索url":"https://www.freeok.vip/vod-so/{wd}-------------.html","搜索图片":"data-original=\"&&\"","搜索标题":"<strong>&&</strong>","搜索副标题":"module-item-note\">&&</div>"},"jar":"https://pan.shangui.cc/f/LD61U3/xbpq%E6%96%B0%E7%89%88.jar"},
-{"key": "csp_xBPQ_奇优影院","name": "️奇优影院(XB)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/xBPQ/奇优影院xbpq.json","jar":"https://pan.shangui.cc/f/LD61U3/xbpq%E6%96%B0%E7%89%88.jar"},
+{"key": "csp_xBPQ_奇优影院","name": "️奇优影院(XB)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/xBPQ/奇优影院xbpq.json","jar":"https://pan.shangui.cc/f/LD61U3/xbpq%E6%96%B0%E7%89%88.jar"},
 {"key":"七夜","name":"七夜(搜索)","type":3,"api":"csp_Dovx","playerType":2,"searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
 {"key": "易搜","name": "易搜(搜索)","type": 3,"api": "csp_YiSo","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
 {"key": "盘搜","name": "盘搜(搜索)","type": 3,"api": "csp_PanSou","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
 {"key": "UP云搜","name": "Up云搜(搜索)","type": 3,"api": "csp_UpYun","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-{"key":"push_agent","name":"推送(阿里/磁力)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar":"clan://TVBox/Hk/Hk.jar"}
+{"key":"push_agent","name":"推送(阿里/磁力)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"}
   ],
   "parses": [
     {

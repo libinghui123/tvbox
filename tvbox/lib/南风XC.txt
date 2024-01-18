@@ -1,8 +1,8 @@
 {
-"spider":"clan://TVBox/jar/fm.jar",
+"spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+  {"key":"drpy_js_豆瓣","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
     {
       "key": "csp_Czsapp",
       "name": "🏭厂长",

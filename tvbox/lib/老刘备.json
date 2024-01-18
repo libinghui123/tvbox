@@ -1,7 +1,7 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
  //"spider": "http://itvbox.cc/sft/jar/老刘备0816.jar;md5;09BAF4A03D362D96F0FC14085C343191",
- "spider":"clan://TVBox/jar/fm.jar",
+ "spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
   "lives": [
     {
       "name": "live",
@@ -17,11 +17,11 @@
       "key": "dr_豆瓣",
       "name": "🔍豆瓣荐片(js)",
       "type": 3,
-      "api": "clan://TVBox/JS/lib/drpy2.min.js",
+      "api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://TVBox/JS/js/drpy.js"
+      "ext": "http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"
     },
       {
       "key": "csp_CZSPP",
@@ -119,7 +119,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {"key":"drpy_js_腾云驾雾","name":"🍅腾讯视频(官)","type":3,"api":"clan://TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/腾云驾雾.js"},
+   {"key":"drpy_js_腾云驾雾","name":"🍅腾讯视频(官)","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/腾云驾雾.js"},
     {
       "key": "csp_IQIYI",
       "name": "🥝爱奇艺(官)",

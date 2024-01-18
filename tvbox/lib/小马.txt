@@ -26,7 +26,7 @@
 {"key":"csp_app_天天视频","name":"   🍜天天视频","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 
 {"key": "csp_xp_yinfans","name": "  ⛪音范丝4K(300+)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/mabox/box/raw/branch/main/json/yinfans.json"},
-{"key":"csp_xp_dm84","name":"  🚌动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/dmw.json"},
+{"key":"csp_xp_dm84","name":"  🚌动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/MaooXP/dmw.json"},
 {"key":"csp_xp_dmw","name":"  🌅动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/dmw.json"},
 {"key":"csp_xp_vip1280","name":"  💯VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/vip1280.json"},
 {"key":"csp_xpath_球迷直播","name":"球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e7%90%83%e8%bf%b7%e7%9b%b4%e6%92%ad.json"},

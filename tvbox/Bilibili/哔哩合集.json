@@ -145,7 +145,7 @@
     },
     {
       "type_name":"MV",
-      "type_id":"MV4K"
+      "type_id":"MV 4K"
     },
    {
       "type_name": "舞曲",
@@ -181,7 +181,7 @@
     ],
 
     "cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
-  //"cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7",
+
  "filter":{
  
  "短剧": [
@@ -746,7 +746,7 @@
         ]
       }
     ],
-         "MV4K": [
+         "MV 4K": [
       {"key": "order","name": "排序","value": [
 {"n": "综合排序","v": "0"},
 {"n": "最多点击","v": "click"},
@@ -759,7 +759,7 @@
         "key": "tid",
         "name": "分类",
         "value": [
-{"n":"全部","v":"MV4K"},
+{"n":"全部","v":"MV 4K"},
 {"n":"A阿杜","v":"阿杜MV4K"},
 {"n":"A阿黛尔","v":"阿黛尔MV4K"},
 {"n":"BBeyond","v":"BeyondMV4K"},
@@ -1759,6 +1759,7 @@
 ]
 },
 {"key": "tid","name": "分类","value": [
+          {"n": "美女壁纸","v": "美女壁纸"},
           {"n": "美女小姐姐", "v": "美女小姐姐"},
           {"n": "Al绘画","v": "Al绘画"},
           {"n": "黑丝美女小姐姐","v": "黑丝美女小姐姐"},
