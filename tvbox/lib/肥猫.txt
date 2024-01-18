@@ -1,6 +1,6 @@
 {
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃新微信公众号：肥猫宝贝","type":3,"api":"clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+  {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃新微信公众号：肥猫宝贝","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
     {
       "key": "短剧one",
       "name": "🥰┃短剧┃视频",
@@ -298,7 +298,7 @@
         "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
         "timeout": 30,
         "changeable": 0,
-        "阿里token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd"
+        "阿里token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
       }
     },
     {
@@ -314,7 +314,7 @@
         "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
         "timeout": 30,
         "changeable": 0,
-        "阿里token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd"
+        "阿里token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
       }
     },
     {
@@ -334,7 +334,7 @@
         "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
         "timeout": 30,
         "changeable": 0,
-        "阿里token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd"
+        "阿里token": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
       }
     },
     {
@@ -344,14 +344,14 @@
       "api": "csp_UpYun",
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
     },
     {
       "key": "csp_search_Panda_易搜",
       "name": "🐷┃易搜┃网盘",
       "type": 3,
       "api": "csp_YiSo",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
     },
     {
       "key": "drpy_哔哩",
@@ -682,5 +682,5 @@
   ],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com", "vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "spider":"clan://TVBox/jar/fm.jar"
+  "spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar"
 }

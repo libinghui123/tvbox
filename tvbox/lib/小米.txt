@@ -1,8 +1,8 @@
 {
-  "spider": "clan://TVBox/jar/fm.jar",
+  "spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"🎟豆瓣┃主页","type":3,"api":"clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+  {"key":"drpy_js_豆瓣","name":"🎟豆瓣┃主页","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
     {
       "key": "Bili",
       "name": "🅱哔哔┃哔哩",
@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "sansan",
@@ -497,7 +497,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
     },
     {
       "key": "PanSou",
@@ -518,7 +518,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://zhaoziyuan.pw/$$$http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd$$$wudideni$$$wudi"
+      "ext": "https://zhaoziyuan.pw/$$$http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$wudideni$$$wudi"
     },
     {
       "key": "七夜",
@@ -528,7 +528,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -539,7 +539,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+auto|4k|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
     },
     {
       "key": "九六",

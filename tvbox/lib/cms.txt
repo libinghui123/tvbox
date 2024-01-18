@@ -1,10 +1,10 @@
 ﻿
 {
 "wallpaper": "https://pictures.catvod.eu.org",
-"spider":"clan://TVBox/jar/fm.jar",
+"spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
  "sites":[
-{"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "clan://TVBox/JS/lib/drpy.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+{"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
 {"key": "csp_beijihu","name": "🎪极狐影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 {"key": "暴风采集","name": "🌪️暴风影音","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
 {"key":"索尼","name":"📺┃索尼(CJ)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","海外剧","大陆综艺","国产动漫"]},
@@ -67,8 +67,8 @@
 {"key": "UP云搜","name": "🦊Up云搜 | 搜索","type": 3,"api": "csp_UpYun","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
 //{"key": "找资源","name": "🦊找资源 | 搜索","type": 3,"api": "csp_Zhaozy","playerType":2,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd$$$fanty$$$qqq111"},
 {"key":"PanSearch","name":"🦊盘Se | 搜索","type":3,"api":"csp_PanSearch","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"},
-//{"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"}
-{"key": "push_agent", "name": "🍭推送(海阔)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/Hk/Hk.jar"}
+//{"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"}
+{"key": "push_agent", "name": "🍭推送(海阔)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"}
         
         ],
    "parses": [

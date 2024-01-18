@@ -1,5 +1,5 @@
 {
-	"spider": "clan://TVBox/jar/fm.jar",
+	"spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
 	//"spider": "https://pan.shangui.cc/f/QKzJTm/xzy1029.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
@@ -9,9 +9,9 @@
 			"urls": [
 				"proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
 	"sites": [
-		{"key" : "drpy_T4聚合","name" : "影视推荐(首页)","type" : 3,"api" : "clan://TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/drpy.js","jar":"clan://TVBox/jar/fm.jar"},
+		{"key" : "drpy_T4聚合","name" : "影视推荐(首页)","type" : 3,"api" : "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js","jar":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
 		{"key": "南瓜","name": "南瓜App(爬)","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-        {"key": "360_spider","name": "360影视(爬)","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playUrl":"https://jx.m3u8.tv/jiexi/?url=","jar":"clan://TVBox/Hk/Hk.jar"},
+        {"key": "360_spider","name": "360影视(爬)","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"playUrl":"https://jx.m3u8.tv/jiexi/?url=","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
 		{
 			"key": "Auete",
 			"name": "奥特影视(爬)",
@@ -25,7 +25,7 @@
 			"key": "Kunyu",
 			"name": "七七资源(爬)",
 			"type": 3,
-			"jar": "clan://TVBox/jar/fm.jar",
+			"jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -61,10 +61,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/007ys.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/007ys.json"
 		},
-		{"key": "csp_cookmv2","name": "厂长资源(H)","type": 3,"api": "csp_XYQHiker","searchable": 1,"playerType": "2","quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/Hk/XYQHiker/厂长影视.json","jar":"clan://TVBox/Hk/Hk.jar"},
+		{"key": "csp_cookmv2","name": "厂长资源(H)","type": 3,"api": "csp_XYQHiker","searchable": 1,"playerType": "2","quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/厂长影视.json","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
 		{
 			"key": "qiyou",
 			"name": "️奇优影院(H)",
@@ -73,8 +73,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/Hk/XYQHiker/奇优影院.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/Hk/XYQHiker/奇优影院.json"
 		},
 		{
 			"key": "csp_xf_真不卡",
@@ -84,8 +84,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/zhenbuka.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/zhenbuka.json"
 		},
 		{
 			"key": "csp_XYQBiu_疯狗影院",
@@ -95,8 +95,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/fenggou.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/fenggou.json"
 		},
 		{
 			"key": "csp_xf_naikan",
@@ -106,8 +106,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/naikan.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/naikan.json"
 		},
 		{
 			"key": "csp_xf_ksj",
@@ -117,8 +117,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/300kanshijie.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/300kanshijie.json"
 		},
 		{
 			"key": "csp_xf_ksj2",
@@ -128,8 +128,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/300kanshijie.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/300kanshijie.json"
 		},
 		{
 			"key": "csp_xf_xiangjiao5",
@@ -139,8 +139,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/freeok.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/freeok.json"
 		},
 		{
 			"key": "白嫖者联盟",
@@ -150,8 +150,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/bpzlm.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/bpzlm.json"
 		},
 		{
 			"key": "buxiutv",
@@ -161,53 +161,53 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar":"clan://TVBox/Hk/Hk.jar",
-			"ext": "clan://TVBox/MaooXP/buxiutv.json"
+			"jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar",
+			"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/buxiutv.json"
 		},
 		{
 			"key": "dr_tva云播",
 			"name": "tva云播(js)",
 			"type": 3,
-			"api": "clan://TVBox/JS/lib/drpy2.min.js",
+			"api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
 			"searchable": 2,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "clan://TVBox/JS/js/TV云播.js"
+			"ext": "http://127.0.0.1:9978/file/TVBox/JS/js/TV云播.js"
 		},
 		{
 			"key": "dr_短视频",
 			"name": "小短视频(js)",
 			"type": 3,
-			"api": "clan://TVBox/JS/lib/drpy2.min.js",
+			"api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "clan://TVBox/JS/js/短视频.js"
+			"ext": "http://127.0.0.1:9978/file/TVBox/JS/js/短视频.js"
 		},
        {
             "key" : "drpy_js_JRKAN直播",
             "name" : "JRKAN直播(js)",
             "type" : 3,
-            "api" : "clan://TVBox/JS/lib/drpy2.min.js",
-            "ext" : "clan://TVBox/JS/js/JRKAN直播.js"
+            "api" : "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
+            "ext" : "http://127.0.0.1:9978/file/TVBox/JS/js/JRKAN直播.js"
         },
 		{
 			"key": "dr_310直播",
 			"name": "310直播(js)",
 			"type": 3,
-			"api": "clan://TVBox/JS/lib/drpy2.min.js",
+			"api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "clan://TVBox/JS/js/310直播.js"
+			"ext": "http://127.0.0.1:9978/file/TVBox/JS/js/310直播.js"
 		},
-{"key":"csp_GitCafe1","name":"纸条 | (搜索)","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar":"clan://TVBox/Hk/Hk.jar"},
-//{"key": "紙條","name": "纸条 | (搜索)","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "易搜","name": "易搜 | (搜索)","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "盤搜","name": "盘搜 | (搜索)","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "UP雲搜","name": "Up云搜┃(搜索)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-//{"key": "push_agent","name": "推送(阿里/磁力)","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key":"push_agent","name":"推送(H)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/Hk/Hk.jar"}
+{"key":"csp_GitCafe1","name":"纸条 | (搜索)","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar":"http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
+//{"key": "紙條","name": "纸条 | (搜索)","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
+{"key": "易搜","name": "易搜 | (搜索)","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
+{"key": "盤搜","name": "盘搜 | (搜索)","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
+{"key": "UP雲搜","name": "Up云搜┃(搜索)","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
+//{"key": "push_agent","name": "推送(阿里/磁力)","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"},
+{"key":"push_agent","name":"推送(H)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"}
 	],
 	"parses": [{
 			"name": "解析聚合",

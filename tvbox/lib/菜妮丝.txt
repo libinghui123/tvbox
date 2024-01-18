@@ -1,5 +1,5 @@
 {
-"spider":"clan://TVBox/jar/fm.jar",
+"spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
  //"spider": "https://codeberg.org/wuyou/TVBox/raw/branch/main/jar/%E8%8F%9C%E5%A6%AE%E4%B8%9D1104.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
