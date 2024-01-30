@@ -1,29 +1,6 @@
 {
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃新微信公众号：肥猫宝贝","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
-    {
-      "key": "短剧one",
-      "name": "🥰┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
-    },
-    {
-      "key": "种子短剧",
-      "name": "💮┃短剧┃视频",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
-    {
-      "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.live/alist.json"
-    },
+  {"key":"drpy_js_豆瓣","name":"🐼┃公众号┃肥猫宝贝","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
     {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
@@ -41,7 +18,7 @@
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://dt.xn--yety82d.love/玩偶哥哥.json"
+      "ext": "http://dt.xn--yety82d.love/玩偶哥哥(新).json"
     },
     {
       "key": "蜂鸟",
@@ -62,14 +39,6 @@
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
     {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/厂长.js"
-    },
-    {
       "key": "影探",
       "name": " 🕵┃影探┃影视",
       "type": 3,
@@ -83,7 +52,7 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://rzys.xyz/",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;504545B4ED27DB48364F4A4D730239A2"
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "荐片",
@@ -91,27 +60,56 @@
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;504545B4ED27DB48364F4A4D730239A2"
+      "ext": "http://api2.rinhome.com",
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
-      "key": "996",
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "csp_Cs1369",
       "name": "🥃┃九六┃影视",
       "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "api": "csp_Panda",
-      "ext": {
-        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-        "筛选": "1"
-      }
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
-      "key": "bttwo",
-      "name": "✌┃BTtwo┃影视",
+      "key": "csp_Auete",
+      "name": "🦝┃Aue┃影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "csp_Kuaikan",
+      "name": "👀┃快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/两个BT.js"
+      "ext": "https://d.kstore.space/download/6296/js/厂长.js"
     },
     {
       "key": "Libvio",
@@ -122,12 +120,35 @@
       "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"
     },
     {
-      "key": "FREE1OK",
+      "key": "FreeOK",
       "name": "️️👌┃Fre┃影视",
       "type": 3,
+      "api": "csp_Freeok",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "哔嘀",
+      "name": "️️💦┃哔嘀┃影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "playerType": "1",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "皮皮虾",
+      "name": "🦐┃皮皮┃影视",
+      "type": 3,
+      "api": "csp_PipiXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "saohuo",
@@ -146,12 +167,41 @@
       "ext": "https://d.kstore.space/download/6296/js/爱看.js"
     },
     {
-      "key": "新视觉",
-      "name": "🐦┃视觉┃影视",
+      "key": "圣城影视",
+      "name": "🏰┃圣城┃影视",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/新视觉.js"
+      "ext": "https://d.kstore.space/download/6296/js/SC1080.js"
+    },
+    {
+      "key": "云播影视",
+      "name": "☁️┃云播┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/TVB云播.js"
+    },
+    {
+      "key": "二三",
+      "name": "2️⃣┃二三┃影视",
+      "type": 3,
+      "api": "csp_Ys23",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
+    },
+    {
+      "key": "新视觉",
+      "name": "🐦┃视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.80yy3.com/",
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "007影视",
@@ -192,6 +242,29 @@
       "ext": "https://d.kstore.space/download/6296/js/360.js"
     },
     {
+      "key": "短剧one",
+      "name": "🥰┃短剧┃视频",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
+    },
+    {
+      "key": "种子短剧",
+      "name": "💮┃短剧┃视频",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
+    {
+      "key": "alist",
+      "name": "🍰┃小鸭┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://alist.xn--z7x900a.live/alist.json"
+    },
+    {
       "key": "蓝猫动漫",
       "name": "🌊┃蓝猫┃动漫",
       "type": 3,
@@ -222,7 +295,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;504545B4ED27DB48364F4A4D730239A2"
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "Aid",
@@ -260,7 +333,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;504545B4ED27DB48364F4A4D730239A2"
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "drpy_js_310直播",
@@ -273,16 +346,6 @@
         "type": "list"
       },
       "ext": "https://d.kstore.space/download/6296/js/310直播.js"
-    },
-    {
-      "key": "yinyue",
-      "name": "🎤┃酷狗┃音乐",
-      "type": 3,
-      "api": "csp_Music",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "https://api.zalman2022.repl.co/music.json",
-      "jar": "https://api.zalman2022.repl.co/YSZYZ.jar"
     },
     {
       "key": "csp_search_Panda_pansearch",
@@ -352,6 +415,17 @@
       "type": 3,
       "api": "csp_YiSo",
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd"
+    },
+    {
+      "key": "小纸条",
+      "name": "📜┃纸条┃网盘",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|auto|fhd",
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "drpy_哔哩",
@@ -439,7 +513,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://fm.t4tv.hz.cz/json/market.json",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;504545B4ED27DB48364F4A4D730239A2"
+      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     },
     {
       "key": "push_agent",
@@ -466,6 +540,41 @@
       "name": "公众号：肥猫宝贝",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+    {
+      "name": "肥猫最可爱",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
         "flag": [
           "qq",

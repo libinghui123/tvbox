@@ -1,12 +1,8 @@
 {
     "urls": [
         {"url": "http://127.0.0.1:9978/file/TVBox/lib/A.txt","name": "🍵绿茶影院(优选)"},
-        
         {"url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "🌈私人影院"},
         {"url": "https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json","name": "🌹经典在线"},
-		{"url": "http://52bsj.vip:98/18dxwoai","name": "🔞吾爱在线"},
-		{"url": "http://8.210.232.168/fm18.json","name": "🐝蜂蜜在线"},
-		{"url": "https://codeberg.org/caic/a/raw/branch/main/不正经.json","name": "🈳不正经线路"},
 		{"url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt","name": "🌙月光线路"},
 		{"url": "https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt","name": "🚀Sex线路"},
 		{"url": "https://huhujunxx.neocities.org/AV.json","name": "🈚Huhujun线路"},
@@ -32,7 +28,6 @@
         {"url":"https://agit.ai/pinghui/xinghe/raw/branch/master/慎用TVBOX福利接口.txt","name":"🔞xinghe"},
         //{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name":"🔞月光宝盒Plus"},
         {"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json","name":"🔞老马18+"},
-        {"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json","name":"🔞巧计18+"},
         {"url":"https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name":"🔞二哈社区(H)"},
         //{"url":"http://shuyuan.miaogongzi.net/shuyuan/1670490831.txt","name":"🚞高速动车🚄"},
         {"url":"https://jsd.cdn.zzko.cn/gh/2hacc/TVBox@main/h/h.json","name":"🛫🛣飞机场1"},
@@ -64,24 +59,6 @@
         {"url":"https://ghproxy.net/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx3","name":"🔞XXX3"},
         {"url":"https://agit.ai/yschaizhen/TVboxo/raw/branch/main/Text/18.json","name":"🔞XXX4"},
         {"url":"https://ghproxy.net/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt","name":"🔞Peter(H)"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/9.26%E7%A6%8F%E5%88%A9.txt","name":"🔞18线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/18+.txt","name":"🔞18+线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/18jin.json","name":"🔞18jin线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/888.json","name":"🔞888线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/PRO.json","name":"🔞PRO线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/Yoursmile18.json","name":"🔞Yoursmile18线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/dxwoai18.txt","name":"??dxwoai18线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/fuli0718.txt","name":"🔞fuli专线"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/h.txt","name":"🔞H专线"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/maodu.txt","name":"🔞maodu线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/maodu2.json","name":"🔞maodu2线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/tvbox18.json","name":"🔞tvbox18线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/vip.json","name":"🔞vip线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/wq18.json","name":"🔞wq线路"},
-        {"url":"https://codeberg.org/maomitv/TVBox-Pro/raw/branch/main/xys18.json","name":"🔞xys线路"},
-        {"url":"https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json","name":"🔞ziyong线路"},
-        {"url":"https://agit.ai/ABCD/box/raw/branch/master/18+","name":"🔞18+线路"},
-        {"url":"http://152.136.125.181:81/MM/dianbos/MultiLine/JiuYing/BBB.json","name": "🔞JiuYing线路"},
-        {"url":"https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json","name": "🔞MHQTV线路"}
+        {"url":"https://agit.ai/ABCD/box/raw/branch/master/18+","name":"🔞18+线路"}
     ]
 }
