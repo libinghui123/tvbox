@@ -5,17 +5,7 @@
 "sites": [
 
 //{"key": "csp_appys_影探","name": "❤影探主接口|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/"},
-{
-"key": "农民影视",
-"name": "✈️速度流畅",
-"type": 3,
-"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 1,
-"ext": "https://drpy.cainisi.cf/js/农民影视.js"
-},
+{"key": "csp_Nmys","name": "✈️速度流畅","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/nmys.json"},
 {
 "key": "厂长资源",
 "name": "👒厂长┃影视",
