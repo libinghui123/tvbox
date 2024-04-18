@@ -29,6 +29,7 @@
 {"key":"zxzj","name":"在线之家[影视专用]","type":3,"api":"./cat/zxzj_open.js"},
 {"key":"kkys","name":"快看影视[影视专用]","type":3,"api":"./cat/kkys_open.js"},
 
+
 {"key":"drpy_js_Alist","name":"网盘 | Alist","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
 {"key":"好趣网","name":"电视 | 好趣网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
 {"key":"道长直播2点播","name":"电视 | 直播","type":3,"api":"./lib/live2cms.js","ext":"./lib/live2mv_data.json"},
