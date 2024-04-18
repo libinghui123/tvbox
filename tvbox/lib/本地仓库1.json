@@ -29,7 +29,7 @@
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/动漫.txt","name":"动漫线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/JS/js.json","name":"JS线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/pg/jsm.json","name":"pg专线"},
-{"url": "http://127.0.0.1:9978/file/TVBox/lib/ok.txt","name":"ok影视专线"},
+{"url": "http://127.0.0.1:9978/file/TVBox/lib/ok.txt","name":"ok专线"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/弯弯.txt","name":"弯弯线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/cms.txt","name":"CMS线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/俊佬.txt","name":"俊佬线路"},
@@ -42,7 +42,7 @@
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/肥猫.txt","name":"肥猫线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/饭太硬.txt","name":"饭太硬线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/南风XC.txt","name":"南风XC线路"},
-{"url": "http://127.0.0.1:9978/file/TVBox/lib/多多.txt","name":"多多线路"},
+//{"url": "http://127.0.0.1:9978/file/TVBox/lib/多多.txt","name":"多多线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/运输车.txt","name":"运输车线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/分享者.json","name":"分享者线路"},
 {"url": "http://127.0.0.1:9978/file/TVBox/lib/小马.txt","name":"小马线路"}

@@ -2,7 +2,12 @@
 {
 "wallpaper": "https://pictures.catvod.eu.org",
 "spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
+"lives": [
+{"name": "Ipv4","type": 0,"url": "http://127.0.0.1:9978/file/TVBox/tv/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "ipv6_1","type": 0,"url": "https://my5353.com/v6zby","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "ipv6_2","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "ipv6_3","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
  "sites":[
 {"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/drpy.js"},
 {"key": "csp_beijihu","name": "🎪极狐影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
@@ -88,134 +93,42 @@
 
 "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 
-"ijk": [{
-		"group": "软解码",
-		"options": [{
-			"category": 4,
-			"name": "opensles",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "overlay-format",
-			"value": "842225234"
-		}, {
-			"category": 4,
-			"name": "framedrop",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "soundtouch",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "start-on-prepared",
-			"value": "1"
-		}, {
-			"category": 1,
-			"name": "http-detect-range-support",
-			"value": "0"
-		}, {
-			"category": 1,
-			"name": "fflags",
-			"value": "fastseek"
-		}, {
-			"category": 2,
-			"name": "skip_loop_filter",
-			"value": "48"
-		}, {
-			"category": 4,
-			"name": "reconnect",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "enable-accurate-seek",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "mediacodec",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "mediacodec-auto-rotate",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "mediacodec-handle-resolution-change",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "mediacodec-hevc",
-			"value": "0"
-		}, {
-			"category": 1,
-			"name": "dns_cache_timeout",
-			"value": "600000000"
-		}]
-	}, 
-      {
-		"group": "硬解码",
-		"options": [{
-			"category": 4,
-			"name": "opensles",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "overlay-format",
-			"value": "842225234"
-		}, {
-			"category": 4,
-			"name": "framedrop",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "soundtouch",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "start-on-prepared",
-			"value": "1"
-		}, {
-			"category": 1,
-			"name": "http-detect-range-support",
-			"value": "0"
-		}, {
-			"category": 1,
-			"name": "fflags",
-			"value": "fastseek"
-		}, {
-			"category": 2,
-			"name": "skip_loop_filter",
-			"value": "48"
-		}, {
-			"category": 4,
-			"name": "reconnect",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "enable-accurate-seek",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "mediacodec",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "mediacodec-auto-rotate",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "mediacodec-handle-resolution-change",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "mediacodec-hevc",
-			"value": "1"
-		}, {
-			"category": 1,
-			"name": "dns_cache_timeout",
-			"value": "600000000"
-		}]
-	}],
+"ijk": [
+{"group": "软解码","options": [
+{"category": 4,"name": "opensles","value": "0"}, 
+{"category": 4,"name": "overlay-format","value": "842225234"}, 
+{"category": 4,"name": "framedrop","value": "1"}, 
+{"category": 4,"name": "soundtouch","value": "1"}, 
+{"category": 4,"name": "start-on-prepared","value": "1"}, 
+{"category": 1,"name": "http-detect-range-support","value": "0"}, 
+{"category": 1,"name": "fflags","value": "fastseek"}, 
+{"category": 2,"name": "skip_loop_filter","value": "48"}, 
+{"category": 4,"name": "reconnect","value": "1"}, 
+{"category": 4,"name": "enable-accurate-seek","value": "0"}, 
+{"category": 4,"name": "mediacodec","value": "0"}, 
+{"category": 4,"name": "mediacodec-auto-rotate","value": "0"}, 
+{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"}, 
+{"category": 4,"name": "mediacodec-hevc","value": "0"}, 
+{"category": 1,"name": "dns_cache_timeout","value": "600000000"}
+]}, 
+{"group": "硬解码","options": [
+{"category": 4,"name": "opensles","value": "0"}, 
+{"category": 4,"name": "overlay-format","value": "842225234"}, 
+{"category": 4,"name": "framedrop","value": "1"}, 
+{"category": 4,"name": "soundtouch","value": "1"}, 
+{"category": 4,"name": "start-on-prepared","value": "1"}, 
+{"category": 1,"name": "http-detect-range-support","value": "0"}, 
+{"category": 1,"name": "fflags","value": "fastseek"}, 
+{"category": 2,"name": "skip_loop_filter","value": "48"}, 
+{"category": 4,"name": "reconnect","value": "1"}, 
+{"category": 4,"name": "enable-accurate-seek","value": "0"}, 
+{"category": 4,"name": "mediacodec","value": "1"}, 
+{"category": 4,"name": "mediacodec-auto-rotate","value": "1"}, 
+{"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"}, 
+{"category": 4,"name": "mediacodec-hevc","value": "1"}, 
+{"category": 1,"name": "dns_cache_timeout","value": "600000000"}
+]}
+],
 
 
 //"wallpaper":"http://52bsj.vip:82/late",

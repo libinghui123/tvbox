@@ -18,6 +18,7 @@
 //{"key": "csp_xb555","name": "555影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.555dy.vip/vodtype/{cateId}{year}.html","jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
 {"urls": [
 
+{"url": "clan://localhost/TVBox/lib/无忧-自定义.json","name":"无忧总线路-自定义"},
 {"url": "clan://localhost/TVBox/lib/无忧.json","name":"无忧总线路"},
 {"url": "clan://localhost/TVBox/lib/无忧TV.json","name":"无忧普通线路"},
 {"url": "clan://localhost/TVBox/lib/无忧ali.json","name":"无忧阿里线路"},
