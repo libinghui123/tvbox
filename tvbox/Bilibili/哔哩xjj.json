@@ -1,79 +1,25 @@
 {
   "classes": [
-  {
-      "type_name": "小姐姐合集",
-      "type_id": "小姐姐超清"
-    },
-    {
-      "type_name": "国内小姐姐",
-      "type_id": "国内小姐姐超清"
-    },
-    {
-      "type_name": "韩国小姐姐",
-      "type_id": "韩国小姐姐超清"
-    },
-   {
-      "type_name": "日本小姐姐",
-      "type_id": "日本小姐姐超清"
-    },
-    {
-      "type_name": "人间胸器小姐姐",
-      "type_id": "人间胸器小姐姐超清"
-    },
-
-    {
-      "type_name": "俄罗斯小姐姐",
-      "type_id": "俄罗斯小姐姐超清"
-    },
-        {
-      "type_name": "混血小姐姐",
-      "type_id": "混血小姐姐超清"
-    },
-        {
-      "type_name": "越南小姐姐",
-      "type_id": "越南小姐姐超清"
-    },
-        {
-      "type_name": "Al小姐姐",
-      "type_id": "Al美女超清"
-    },
-        {
-      "type_name": "抖音热门小姐姐",
-      "type_id": "抖音热门小姐姐"
-    },
-        {
-      "type_name": "快手热门美女",
-      "type_id": "快手热门美女"
-    },
-        {
-      "type_name": "打碟小姐姐",
-      "type_id": "打碟小姐姐超清"
-    },
-        {
-      "type_name": "冲浪小姐姐",
-      "type_id": "冲浪小姐姐超清"
-    },
-        {
-      "type_name": "蹦迪小姐姐",
-      "type_id": "蹦迪小姐姐超清"
-    },
-  {
-      "type_name": "艺校小姐姐",
-      "type_id": "艺校小姐姐超清"
-    },
-    {
-      "type_name": "环球小姐",
-      "type_id": "环球小姐"
-    },
-        {
-      "type_name": "泰国人妖",
-      "type_id": "泰国人妖超清"
-    }
-    
-
+{"type_name": "小姐姐合集","type_id": "小姐姐超清"},
+{"type_name": "国内小姐姐","type_id": "国内小姐姐超清"},
+{"type_name": "韩国小姐姐","type_id": "韩国小姐姐超清"},
+ {"type_name": "日本小姐姐","type_id": "日本小姐姐超清"},
+{"type_name": "人间胸器小姐姐","type_id": "人间胸器小姐姐超清"},
+{"type_name": "俄罗斯小姐姐","type_id": "俄罗斯小姐姐超清"},
+{"type_name": "混血小姐姐","type_id": "混血小姐姐超清"},
+{"type_name": "越南小姐姐","type_id": "越南小姐姐超清"},
+{"type_name": "Al小姐姐","type_id": "Al美女超清"},
+{"type_name": "抖音热门小姐姐","type_id": "抖音热门小姐姐"},
+{"type_name": "快手热门美女","type_id": "快手热门美女"},
+{"type_name": "打碟小姐姐","type_id": "打碟小姐姐超清"},
+{"type_name": "冲浪小姐姐","type_id": "冲浪小姐姐超清"},
+{"type_name": "蹦迪小姐姐","type_id": "蹦迪小姐姐超清"},
+{"type_name": "艺校小姐姐","type_id": "艺校小姐姐超清"},
+{"type_name": "环球小姐","type_id": "环球小姐"},
+{"type_name": "泰国人妖","type_id": "泰国人妖超清"}
     ],
     
-  "cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
+  "cookie": "http://127.0.0.1:9978/file/TVBox/Bilibili/cookie.txt",
 
   "filter": {
 "小姐姐超清": [
@@ -182,14 +128,14 @@
 ]
 },
 {"key": "tid","name": "分类","value": [
-          {"n": "美女", "v": "Al绘画美女"},
-          {"n": "绘画美女","v": "Al绘画美女"},
-          {"n": "牛仔美女","v": "Al绘画牛仔美女"},
-          {"n": "泳装美女", "v": "Al绘画泳装美女"},
-          {"n": "健身美女","v": "Al绘画健身服美女" },
-          {"n": "瑜伽美女","v": "Al绘画瑜伽服美女" },
-          {"n": "体操美女","v": "Al绘画体操服美女" },
-          {"n": "礼服美女","v": "Al绘画礼服美女"}
+{"n": "美女", "v": "Al绘画美女"},
+{"n": "绘画美女","v": "Al绘画美女"},
+{"n": "牛仔美女","v": "Al绘画牛仔美女"},
+{"n": "泳装美女", "v": "Al绘画泳装美女"},
+{"n": "健身美女","v": "Al绘画健身服美女" },
+{"n": "瑜伽美女","v": "Al绘画瑜伽服美女" },
+{"n": "体操美女","v": "Al绘画体操服美女" },
+{"n": "礼服美女","v": "Al绘画礼服美女"}
           ]},
 {"key":"duration","name":"时长","value":[
 {"n":"全部","v":"0"},
