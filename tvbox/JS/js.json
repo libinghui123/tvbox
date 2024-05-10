@@ -36,8 +36,6 @@
 {"key":"MV_vod","name":"电视┃MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_ikanbot1","name":"聚搜 | 爱看机器人1","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看机器人.js"},
-{"key":"drpy_js_ikanbot2","name":"聚搜 | 爱看机器人2","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot2.js"},
-{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_荐片","name":"影视 | 荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
 {"key":"drpy_js_360影视","name":"官源 | 360","type":3,"api":"./lib/drpy.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺","type":3,"api":"./lib/drpy.min.js","ext":"./js/奇珍异兽.js"},

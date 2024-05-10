@@ -16,19 +16,20 @@
 {"key": "drpy_酷云七七","name": "🌈酷云七七[js]","type": 3,"api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js","ext": "http://127.0.0.1:9978/file/TVBox/JS/js/酷云77.js"},
 {"key": "csp_Kunyu77","name": "🌈七七影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/MaooXB2/骚火电影0713.json","jar":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar"},
-{"key": "csp_Nmys","name": "🌾农民直连","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://fanty.run.goorm.site/ext/nmys.json"},
+{"key": "农民","name": "🌾农民秒播","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/MaooXP/nmys.json"},
 {"key": "Kuaikan","name": "👀快看影视","type": 3,"jar":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar","api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Ikanbot","name": "💋爱看Bot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"[排序:lz线路,kuaik]","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"},
 {"key": "南瓜","name": "🎃南瓜App","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"非凡影视","name":"✴️非凡影视","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key": "csp_GitCafe","name": "📜纸条雲盘","type": 3,"api": "csp_Gitcafe","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},
-//{"key": "紙條","name": "⚜️紙條","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1, "switchable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},
-{"key": "易搜","name": "⚜️易搜","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},
-{"key": "盤搜","name": "⚜️盤搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},
-{"key": "UP雲搜","name": "⚜️UP雲搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},
-{"key": "找資源","name": "⚜️找資源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$fanty$$$qqq111"},
-//{"key": "push_agent","name": "⚜️推送","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"}
-{"key": "push_agent", "name": "🍭推送(Hk)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"}
+
+{"key": "玩偶","name": "🦊玩偶┃DM","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}},
+{"key": "夸搜","name": "🦊夸搜┃搜索","type": 3,"api": "csp_QuarkPanso","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}},
+{"key": "YiSo","name": "🦊易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
+{"key": "PanSou","name": "🦊盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
+{"key": "UpYun","name": "🦊Up搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
+{"key": "PanSearch","name": "🦊盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
+{"key": "push_agent","name": "📱手机推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}}
+//{"key": "push_agent", "name": "🍭推送(Hk)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","jar": "http://127.0.0.1:9978/file/TVBox/Hk/Hk.jar"}
         
     ],
     "parses": [

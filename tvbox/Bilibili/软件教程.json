@@ -1,5 +1,5 @@
  {
- "cookie":"https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
+ "cookie":"http://127.0.0.1:9978/file/TVBox/Bilibili/cookie.txt",
      "classes": [
 {"type_name": "MT管理器","type_id": "MT管理器"}, 
 {"type_name": "网盘挂载","type_id": "网盘挂载"}, 

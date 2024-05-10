@@ -135,7 +135,7 @@
 {"type_name": "Z周传雄","type_id": "周传雄MV"}
   ],
   
-"cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
+"cookie": "http://127.0.0.1:9978/file/TVBox/Bilibili/cookie.txt",
 
   
   "filter":{
@@ -659,6 +659,7 @@
 {"n":"L林北北","v":"林北北MV4K"},
 {"n":"L林谦谦","v":"林谦谦MV4K"},
 {"n":"L刘惜君","v":"刘惜君MV4K"},
+{"n":"L刘珂矣","v":"刘珂矣MV4K"},
 {"n":"L梁雁翎","v":"梁雁翎MV4K"},
 {"n":"L李玟","v":"李玟MV4K"},
 {"n":"L林忆莲","v":"林忆莲MV4K"},
@@ -698,6 +699,8 @@
 {"n":"S苏打绿","v":"苏打绿MV4K"},
 {"n":"SSHE","v":"SHEMV4K"},
 {"n":"S孙楠","v":"孙楠MV4K"},
+{"n":"T童珺","v":"童珺MV4K"},
+{"n":"T童安格","v":"童安格MV4K"},
 {"n":"T陶喆","v":"陶喆MV4K"},
 {"n":"T谭咏麟","v":"谭咏麟MV4K"},
 {"n":"T田馥甄","v":"田馥甄MV4K"},

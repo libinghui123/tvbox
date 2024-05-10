@@ -1,41 +1,17 @@
 
 
 {
-"cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
+"cookie": "http://127.0.0.1:9978/file/TVBox/Bilibili/cookie.txt",
 
     "classes": [
-        {
-            "type_name": "广场舞",
-            "type_id": "广场舞"
-        },
-        {
-            "type_name": "性感MV",
-            "type_id": "性感MV"
-        },
-        {
-            "type_name": "MV合集",
-            "type_id": "MV合集"
-        },
-        {
-            "type_name": "热舞合集",
-            "type_id": "热舞合集"
-        },
-        {
-            "type_name": "舞蹈合集",
-            "type_id": "舞蹈合集"
-        },
-        {
-            "type_name": "美女合集",
-            "type_id": "美女合集"
-        },
-        {
-            "type_name": "女神合集",
-            "type_id": "女神合集"
-        },
-        {
-            "type_name": "泳装合集",
-            "type_id": "泳装合集"
-        },
+{"type_name": "广场舞","type_id": "广场舞"},
+{"type_name": "性感MV","type_id": "性感MV"},
+{"type_name": "MV合集","type_id": "MV合集"},
+{"type_name": "热舞合集","type_id": "热舞合集"},
+{"type_name": "舞蹈合集","type_id": "舞蹈合集"},
+{"type_name": "美女合集","type_id": "美女合集"},
+{"type_name": "女神合集","type_id": "女神合集"},
+{"type_name": "泳装合集","type_id": "泳装合集"},
 {"type_name":"演唱会","type_id":"演唱会4K"},
 {"type_name":"戏曲","type_id":"戏曲4K"},
 {"type_name":"相声小品","type_id":"相声小品"},

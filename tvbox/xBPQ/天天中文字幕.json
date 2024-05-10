@@ -1,16 +1,33 @@
 ﻿{
 "站名":"天天中文字幕",
-"主页url":"https://7ppxx.vip/cn/",
+"主页url":"https://34jjbb.vip/xjzy",
+  "请求头": "手机",
 "直接播放":"1",
 "数组":"<a&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
-"链接前缀":"https://7ppxx.vip",
+"链接前缀":"https://34jjbb.vip/",
 "副标题":"<div class=\"duration\">&&</div>",
-"分类":"国产自拍$clm-guochanzipai#三级伦理$clm-guochanzipai#解说原片$clm-jieshuoyuanpian#3D同人$clm-3Dtongren#中文无码$clm-zhongwenwuma#中文综合$clm-zhongwenzonghe#中文近亲$clm-zhongwenjingqing#中文护士$clm-zhongwenhushi#中文师生$clm-zhongwenshisheng#中文强奸$clm-zhongwenqiangjian#明星淫梦$clm-mingxingyinmeng",
-"分类url":"https://7ppxx.vip/cn/{cateId}/{class}.html",
 
+"搜索模式": "1",
+    "搜索url": "https://37jjbb.vip/sa?wd={wd}",
+    "搜索数组": "class=\"list-videos&&</a>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索标题": "title=\"&&\"",
+   // "搜索副标题": "class=\"pic-text text-right\"><b>&&</span>",
+    "搜索链接": "href=\"&&\"",
+    "搜索链接前缀": "",
+    "搜索链接后缀": "",
+
+    "播放数组": "",
+    "播放列表": "",
+    "播放标题": "",
+    "播放链接": "",
+
+"分类":"国产自拍$sd-guochanzipai#三级伦理$sd-sanjizonghe#解说原片$sd-jieshuoyuanpian#3D同人$sd-3Dtongren#中文无码$sd-zhongwenwuma#中文综合$sd-zhongwenzonghe#中文近亲$sd-zhongwenjingqing#中文护士$sd-zhongwenhushi#中文师生$sd-zhongwenshisheng#中文强奸$sd-zhongwenqiangjian#明星淫梦$sd-mingxingyinmeng",
+"分类url":"https://34jjbb.vip/xjzy/sd-{cateId}-{catePg}.html",
+//https://34jjbb.vip/xjzy/sdplay-113586-1-1.html
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
 

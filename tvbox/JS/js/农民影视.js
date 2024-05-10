@@ -1,9 +1,11 @@
 // 发布页 https://www.nmdvd.com/
 var rule={
-	title:'农民影视',
+	title:'农民影视2',
 	//host:'https://www.nmddd.com',
 	host:'https://www.nmdvd.com/',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});let src = jsp.pdfh(html,"body&&a:eq(1)&&href");print(src);HOST=src',
+	hostJs:`print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});
+	let src = jsp.pdfh(html,"body&&a:eq(1)&&href")||jsp.pdfh(html,"body&&a:eq(1)&&Text");
+	if(!src.startsWith('http')){src='https://'+src};print("抓到主页:"+src);HOST=src`,
 	url:'/vod-list-id-fyfilter.html',
 	// /vod-list-id-2-pg-1-order--by-time-class-0-year-2023-letter--area--lang-.html
 	filterable:1,//是否启用分类筛选,
@@ -31,7 +33,41 @@ var rule={
     class_name:'电影&连续剧&综艺&动漫&短剧',//静态分类名称拼接
     class_url:'1&2&3&4&26',//静态分类标识拼接
 	play_parse: true,
-	lazy:'',
+	lazy:`
+	pdfh = jsp.pdfh;
+	pdfa = jsp.pdfa;
+	let html=request(input);
+	let mac_url = html.match(/mac_url='(.*?)';/)[1];
+	let mac_from = html.match(/mac_from='(.*?)'/)[1];
+	log(mac_from);
+	let index = parseInt(input.match(/num-(\\d+)/)[1])-1;
+	let playUrls = mac_url.split('#');
+	let playUrl = playUrls[index].split('$')[1];
+	log(playUrl);
+	let jx_js_url = 'https://m.nmddd.com/player/'+mac_from+'.js';
+	html = request(jx_js_url);
+	let jx_php_url = html.match(/src="(.*?)'/)[1];
+	if(mac_from=='one'){
+	html = request("https://igdux.top/~nmjx");
+	let urls = JSON.parse(html).data;
+	log(urls);
+	playUrl = urls[0]+playUrl;
+	}else{
+	playUrl = jx_php_url+playUrl;
+	}
+	log(playUrl);
+	html = request(playUrl);
+	let realUrl; 
+	if(mac_from=='one'){
+	realUrl = html.match(/video src="(.*?)"/)[1];
+	}else{
+	realUrl = html.match(/url='(.*?)'/)[1];
+	}
+	// log(realUrl);
+	if(realUrl){
+		input = {parse:0,url:realUrl};
+	}
+	`,
 	limit:6,
 	推荐:'.globalPicList .resize_list;*;img&&data-src;*;*',
 	一级:'.globalPicList li;.sTit&&Text;img&&src;.sBottom--em&&Text;a&&href',
@@ -45,17 +81,17 @@ var rule={
 	},
 	搜索:'.ulPicTxt.clearfix li;*;img&&data-src;.sDes:eq(1)&&Text;*',
 
-	//是否启用辅助嗅探: 1,0
-	sniffer:1,
-	// 辅助嗅探规则js写法
-	isVideo:`js:
-		log(input);
-		if(/video\\/tos/.test(input)){
-			input = true
-		}else if(/\\.m3u8/.test(input)){
-			input = true
-		}else{
-			input = false
-		}
-	`,
+	// //是否启用辅助嗅探: 1,0
+	// sniffer:1,
+	// // 辅助嗅探规则js写法
+	// isVideo:`js:
+	// 	log(input);
+	// 	if(/video\\/tos/.test(input)){
+	// 		input = true
+	// 	}else if(/\\.m3u8/.test(input)){
+	// 		input = true
+	// 	}else{
+	// 		input = false
+	// 	}
+	// `,
 }

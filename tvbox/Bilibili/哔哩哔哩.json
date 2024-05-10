@@ -25,7 +25,7 @@
 {"type_name":"儿童少儿","type_id":"儿童少儿"}
 ],
 
-"cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
+"cookie": "http://127.0.0.1:9978/file/TVBox/Bilibili/cookie.txt",
 
 
 "filter":{
