@@ -284,7 +284,7 @@
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0;md5;85d2b2400b8c5bf6cb454911345cde2f",
-"spider":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar",
+"spider":"https://cloud.lxweb.cn/f/ngBeC6/xzy1029.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovL3d3dy55dW53cC5jbi9hcGkvdjMvZmlsZS9nZXQvMTEyNS8xMDE0LnR4dD9zaWduPU1LbFlUMnhoSXRqT1pXem95Ny1ZQV9VUXVidXhmbUxROTJBSE9CWFRxa0UlM0QlM0Ew"
 ]}]}],

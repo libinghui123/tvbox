@@ -1,6 +1,6 @@
 {
 	"spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
-	//"spider": "https://pan.shangui.cc/f/QKzJTm/xzy1029.jar",
+	//"spider": "https://cloud.lxweb.cn/f/ngBeC6/xzy1029.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 				"proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],

@@ -1,5 +1,5 @@
 var rule = {
-    title:'兔小贝',
+    title:'兔小贝[儿]',
     host:'https://www.tuxiaobei.com',
     homeUrl:'',
     url:'/list/mip-data?typeId=fyclass&page=fypage&callback=',
