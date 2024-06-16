@@ -107,4 +107,34 @@
     //列表二次截取前
     "list_twice_pre": "空",
     //列表二次截取后
-    "list_twi
+    "list_twice_suf": "空",
+    //列表数组截取前
+    "list_arr_pre": "class=\"stui-play__list",
+    //列表数组截取后
+    "list_arr_suf": "</ul>",
+    //集数是否二次截取，0否，1是
+    "epi_YN_twice": "0",
+    //集数二次截取前
+    "epi_twice_pre": "空",
+    //集数二次截取后
+    "epi_twice_suf": "空",
+    //集数数组截取前
+    "epi_arr_pre": "<a",
+    //集数数组截取后
+    "epi_arr_suf": "/a>",
+    //集数标题，截取前缀&&截取后缀
+    "epi_title": ">&&<",
+    //集数链接，截取前缀&&截取后缀
+    "epi_url": "href=\"&&\"",
+    //集数链接补前缀
+    "epiurl_prefix": "https://www.fantuanhd.com",
+    //集数链接补后缀
+    "epiurl_suffix": "",
+    //尝试分析macplayer链接，0否，1是
+    //网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种的链接解析
+    "Anal_MacPlayer":"0",
+    //是否开启手动嗅探，0否，1是
+    "ManualSniffer":"0",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv"
+}

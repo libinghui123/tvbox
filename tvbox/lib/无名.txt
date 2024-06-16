@@ -28,7 +28,7 @@
 {"key":"drpy_js_虎牙直播","name":"虎牙(js)","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/虎牙直播.js"},
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播","type":3,"api":"http://127.0.0.1:9978/file/TVBox/JS/lib/drpy.min.js","ext":"http://127.0.0.1:9978/file/TVBox/JS/js/JRKAN直播.js"},
 
-{"key": "玩偶","name": "玩偶┃DM","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}},
+{"key": "玩偶","name": "玩偶┃DM","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 {"key": "夸搜","name": "夸搜┃搜索","type": 3,"api": "csp_QuarkPanso","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}},
 {"key": "YiSo","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
 {"key": "PanSou","name": "盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},

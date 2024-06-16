@@ -3,7 +3,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
 {"key": "豆豆","name": "🌕公众号【神秘的哥哥们】","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}},
+{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 {"key": "YGP","name": "🚀叨观荐影┃新片","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key": "短剧","name": "🌈上头┃短剧","type": 3,"api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/上头短剧.js","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key": "酷看","name": "💡酷看┃秒播","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -11,14 +11,15 @@
 {"key": "苹果","name": "🍎苹果┃无广","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "白嫖","name": "👻白飘┃无广","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/"},
 {"key": "视觉","name": "👓视觉┃直连","type": 3,"api": "csp_Xinsj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
-{"key": "厂长","name": "📔厂长┃无广","type": 3,"api": "csp_Czsapp","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czys03.com/"},
+{"key": "厂长","name": "📔厂长┃无广","type": 3,"api": "csp_Czsapp","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.cz233.com/"},
+{"key": "七七","name": "👒七七┃秒播","type": 3,"api": "csp_Kunyu77","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "南瓜","name": "🎃南瓜┃App","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "农民","name": "🌾农民┃秒播","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"},
-{"key": "七七","name": "👒七七┃秒播","type": 3,"api": "csp_Kunyu77","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "低端","name": "⏮️低端┃外剧","type": 3,"api": "csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "毛驴","name": "🍓毛驴┃直连","type": 3,"api": "csp_MLYS","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 {"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key": "比特","name": "🍄比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "一起看 ","name": "🎉一起┃App","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "zxzj","name": "🍊在线┃外剧","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzja.com/"},
 {"key": "Lib","name": "🌟立播┃直连","type": 3,"api": "csp_Libvio","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.pw/"},
 {"key": "Auete","name": "🏝奥特┃直连","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
@@ -40,7 +41,7 @@
 {"key": "聚短视频js","name": "📽️聚短┃视频","type": 3,"api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/短视频.js","searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key": "有声小说js","name": "🎧有声┃小说","type": 3,"api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
 {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
-{"key": "夸搜","name": "🐺夸搜┃搜索","type": 3,"api": "csp_QuarkPanso","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}},
+{"key": "夸搜","name": "🐺夸搜┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"pan": "quark","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}},
 {"key": "YiSo","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
 {"key": "PanSou","name": "🦊盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
 {"key": "UpYun","name": "😻Up搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
@@ -68,8 +69,7 @@
 "flags": ["YuMi-vip","优酷视频","youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
   "lives": [
-{"name": "ITV","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType": 1},
-{"name": "IPV6","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1},
-{"name": "XIUTAN","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"}
+{"name": "XIUTAN","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
+{"name": "IPV6","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1}
   ]
 }

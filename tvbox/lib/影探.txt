@@ -1,17 +1,20 @@
 {"spider": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "sites": [
-
-{"key": "厂长资源","name": "👒厂长┃影视","type": 3,"api": "http://127.0.0.1:9978/file/TVBox/JS/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "http://127.0.0.1:9978/file/TVBox/JS/js/厂长资源.js"},
 {"key": "原创","name": "☀原创无广","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "厂长","name": "📔厂长无广","type": 3,"api": "csp_Czsapp","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy77.com/"},
-{"key": "白嫖","name": "👻白飘无广","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com/"},
-{"key": "苹果","name": "🍎小苹果复活","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "苹果","name": "🍎苹果影视","type": 3,"api": "csp_LiteApple","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "Xinsj","name": "👓视觉直连1","type": 3,"api": "csp_Xinsj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
 {"key": "csp_Xinsj","name": "🐼视觉直连2","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.6080yy3.com/"},
+{"key": "毛驴","name": "🍓毛驴直连","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
 {"key": "csp_Bttoo","name": "✌比特┃直连","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "索尼采集","name": "🥤索尼影视","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["爽文短剧","科幻片","动作片","恐怖片","纪录片","爱情片","战争片","剧情片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key": "暴风采集","name": "🌪️暴风影音","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
+{"key": "Kuaikan","name": "👀快看影视","type": 3,"jar":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar","api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "河马","name": "🦛河马App","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn","jar": "https://pan.shangui.cc/f/XQRNTd/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
+{"key": "天天","name": "🌞天天App","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn","jar": "https://pan.shangui.cc/f/XQRNTd/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b"},
 
-{"key": "玩偶","name": "🦊玩偶┃DM","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}},
+
+{"key": "玩偶","name": "🦊玩偶┃DM","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
 {"key": "夸搜","name": "🦊夸搜┃搜索","type": 3,"api": "csp_QuarkPanso","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"quarkCookie": "http://127.0.0.1:9978/file/TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}},
 {"key": "YiSo","name": "🦊易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},
 {"key": "PanSou","name": "🦊盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt","from": "4k|auto|fhd"}},

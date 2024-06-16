@@ -24,8 +24,8 @@
 "storeHouse":
 [
 //{"sourceName":"绿茶在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/99.json","parse": "{\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"},
-{"sourceName":"可视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/本地仓库1.json","parse": "{\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"},
-{"sourceName":"云星在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/zx.json","parse": "{\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"}
+{"sourceName":"可视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/本地仓库1.json","parse": "{\"logo\": \"https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"},
+{"sourceName":"云星在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/zx.json","parse": "{\"logo\": \"https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg\",\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"}
 ],"notifyUpdate": true
 }
 
