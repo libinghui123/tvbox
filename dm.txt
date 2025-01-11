@@ -1,13 +1,17 @@
 {
-	"storeHouse": [
+  "storeHouse": [
 
-		{
-			"sourceName": "自用仓库",
-			"sourceUrl": "https://tvbox.libinghui.com/dc.txt"
-		},
-		{
-			"sourceName": "网络仓库",
-			"sourceUrl": "https://raw.liucn.cc/box/m.json"
-		}
-	]
+    {
+      "sourceName": "自用仓库",
+      "sourceUrl": "https://tvbox.libinghui.com/dc.txt"
+    },
+    {
+      "sourceName": "欧歌多仓",
+      "sourceUrl": "http://tv.nxog.top/"
+    },
+    {
+      "sourceName": "欧歌多仓备用",
+      "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
+    }
+  ]
 }
