@@ -5,12 +5,20 @@
       "name": "饭太硬"
     },
     {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "摸鱼儿"
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬-备用1"
     },
     {
-      "url": "http://fty.xxooo.cf/tv",
-      "name": "神秘的哥哥们"
+      "url": "http://www.饭太硬.xyz/tv",
+      "name": "饭太硬-备用2"
+    },
+    {
+      "url": "http://fty.888484.xyz/tv",
+      "name": "饭太硬-备用3"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "摸鱼儿"
     },
     {
       "url": "http://rihou.cc:55",
