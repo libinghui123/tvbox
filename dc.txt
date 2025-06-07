@@ -37,8 +37,8 @@
       "name": "俊于"
     },
     {
-      "url": "https://tv.莱妮丝.top",
-      "name": "莱妮丝接口"
+      "url": "https://tv.菜妮丝.top",
+      "name": "菜妮丝接口"
     },
     {
       "url": "https://download.kstore.space/download/2863/01.txt",
