@@ -29,7 +29,7 @@
       "name": "宝盒接口"
     },
     {
-      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "巧技"
     },
     {
